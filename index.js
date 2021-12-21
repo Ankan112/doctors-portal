@@ -8,7 +8,6 @@ const port = process.env.PORT || 5000
 
 
 
-
 const serviceAccount = './doctors-portal-fbade-firebase-adminsdk.json'
 
 admin.initializeApp({
